@@ -1,0 +1,25 @@
+div{
+		display: inline-block;
+		width: 32%;
+	}
+
+h1{
+	color:red;
+	font-weight: 500;
+	font-size:20px;
+	font-family: Arial;
+
+}
+img{
+	 border:blue solid 1px;
+}
+
+p{
+	color: yellow;
+	font-size: 14px;
+}
+
+h2{
+	color:black;
+	font-size: 16px;
+}
